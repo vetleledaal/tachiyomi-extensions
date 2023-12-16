@@ -36,7 +36,7 @@ class MadaraGenerator : ThemeSourceGenerator {
         SingleLang("Ansh Scans", "https://anshscans.org", "en", overrideVersionCode = 1),
         SingleLang("ApollComics", "https://apollcomics.xyz", "es", isNsfw = true, overrideVersionCode = 2),
         SingleLang("Apolltoons", "https://apolltoons.xyz", "es", isNsfw = true),
-        SingleLang("Aqua Manga", "https://aquamanga.com", "en", overrideVersionCode = 7),
+        SingleLang("Aqua Manga", "https://aquamanga.org", "en", overrideVersionCode = 8),
         SingleLang("AQUA Scans", "https://aquascans.com", "en", className = "ManhwaWorld", overrideVersionCode = 1),
         SingleLang("ArazNovel", "https://www.araznovel.com", "tr", overrideVersionCode = 3),
         SingleLang("Arcanescans", "https://arcanescans.com", "en"),
