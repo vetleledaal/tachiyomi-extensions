@@ -491,7 +491,7 @@ class MadaraGenerator : ThemeSourceGenerator {
         SingleLang("Winter Scan", "https://winterscan.com", "pt-BR", overrideVersionCode = 4),
         SingleLang("Wonderland Scan", "https://wonderlandscan.com", "pt-BR", overrideVersionCode = 3),
         SingleLang("WoopRead", "https://woopread.com", "en", overrideVersionCode = 1),
-        SingleLang("WorldManhwas", "https://worldmanhwas.bar", "id", isNsfw = true, overrideVersionCode = 2),
+        SingleLang("WorldManhwas", "https://worldmanhwas.zone", "id", isNsfw = true, overrideVersionCode = 3),
         SingleLang("WuxiaWorld", "https://wuxiaworld.site", "en", overrideVersionCode = 1),
         SingleLang("YANP Fansub", "https://yanpfansub.com", "pt-BR", isNsfw = true, overrideVersionCode = 1),
         SingleLang("Yaoi Comics", "https://ycscan.com", "pt-BR", isNsfw = true),
