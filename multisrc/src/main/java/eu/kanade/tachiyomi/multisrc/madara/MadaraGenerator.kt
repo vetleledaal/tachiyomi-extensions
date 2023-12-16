@@ -152,7 +152,7 @@ class MadaraGenerator : ThemeSourceGenerator {
         SingleLang("HouseMangas", "https://housemangas.com", "es"),
         SingleLang("Hreads", "https://hreads.net", "en", isNsfw = true, overrideVersionCode = 1),
         SingleLang("I Love Manhwa", "https://ilovemanhwa.com", "en", isNsfw = true),
-        SingleLang("Ikifeng", "https://ikifeng.com", "es", isNsfw = true),
+        SingleLang("Ikifeng", "https://lectorunm.life", "es", isNsfw = true, overrideVersionCode = 1),
         SingleLang("Illusion Scan", "https://illusionscan.com", "pt-BR", isNsfw = true),
         SingleLang("Immortal Updates", "https://immortalupdates.com", "en", overrideVersionCode = 6),
         SingleLang("Império Scans", "https://imperioscans.com.br", "pt-BR", className = "ImperioScans", overrideVersionCode = 1),
