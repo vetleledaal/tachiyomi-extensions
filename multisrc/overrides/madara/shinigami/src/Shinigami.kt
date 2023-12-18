@@ -13,7 +13,7 @@ class Shinigami : Madara("Shinigami", "https://shinigami.moe", "id") {
     // moved from Reaper Scans (id) to Shinigami (id)
     override val id = 3411809758861089969
 
-    override val useNewChapterEndpoint = true
+    override val useNewChapterEndpoint = false
 
     override fun searchPage(page: Int): String = if (page == 1) "" else "page/$page/"
 
