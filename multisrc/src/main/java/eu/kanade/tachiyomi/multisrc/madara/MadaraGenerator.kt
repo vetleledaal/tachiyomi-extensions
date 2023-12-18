@@ -481,7 +481,7 @@ class MadaraGenerator : ThemeSourceGenerator {
         SingleLang("Webdex Scans", "https://webdexscans.com", "en", isNsfw = false),
         SingleLang("Webtoon City", "https://webtooncity.com", "en", isNsfw = false),
         SingleLang("Webtoon Hatti", "https://webtoonhatti.com", "tr", overrideVersionCode = 1),
-        SingleLang("Webtoon TR", "https://webtoon-tr.com", "tr", overrideVersionCode = 1),
+        SingleLang("Webtoon TR", "https://webtoontr.net", "tr", isNsfw = true, overrideVersionCode = 2),
         SingleLang("WebToonily", "https://webtoonily.com", "en", isNsfw = true, overrideVersionCode = 1),
         SingleLang("WebtoonScan", "https://webtoonscan.com", "en", isNsfw = true),
         SingleLang("WebtoonsTOP", "https://webtoons.top", "en", isNsfw = true),
