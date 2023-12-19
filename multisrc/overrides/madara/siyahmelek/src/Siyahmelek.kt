@@ -9,7 +9,7 @@ import java.util.Locale
 
 class Siyahmelek : Madara("Gri Melek", "https://grimelek.net", "tr", SimpleDateFormat("dd MMM yyyy", Locale("tr"))) {
     // Siyahmelek (tr) -> Gri Melek (tr)
-    override id = 6419959498055001014
+    override val id = 6419959498055001014
 
     override val mangaSubString = "seri"
 
